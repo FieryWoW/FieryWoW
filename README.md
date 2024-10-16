@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @FieryWoW
+- I am just starting on my journey of learning Java!
